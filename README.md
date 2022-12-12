@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maitreya-Bhatkhande
-- 👀 I’m interested in Making lives easy with technology Artificial-Intelligence, App-Development, C#, C++, Python, JAVA
+- 👀 I’m interested in making lives easy with technology Artificial-Intelligence, App-Development, C#, C++, Python, JAVA
 - 🌱 I’m currently learning in High School
 - 📫 How to reach me -- Mail me on maitreya.hello@gmail.com
 
